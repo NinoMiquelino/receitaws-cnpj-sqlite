@@ -109,8 +109,8 @@ header("Pragma: no-cache");
 header("Expires: 0");
 ```
 
-• Todas as requisições sensíveis usam POST.
-• Dados validados no frontend e backend.
+• Todas as requisições sensíveis usam POST.<br>
+• Dados validados no frontend e backend.<br>
 • Respostas formatadas em JSON para integração segura.
 
 🧪 Como Executar Localmente
@@ -142,19 +142,19 @@ http://localhost:8000
 
 📚 Objetivo Educacional
 
-• Este projeto foi criado para fins educacionais e demonstrativos, ideal para quem deseja aprender:
-• Integração de APIs REST em PHP
-• Uso do SQLite com PDO
-• CRUD completo (Create, Read, Update, Delete)
-• Requisições assíncronas com Fetch API
+• Este projeto foi criado para fins educacionais e demonstrativos, ideal para quem deseja aprender:<br>
+• Integração de APIs REST em PHP<br>
+• Uso do SQLite com PDO<br>
+• CRUD completo (Create, Read, Update, Delete)<br>
+• Requisições assíncronas com Fetch API<br>
 • Validação de formulários e UX moderno
 
 🧭 Melhorias Futuras
 
-• 🔍 Filtro e busca na listagem
-• 📄 Exportação em CSV/JSON
-• 👥 Sistema de login para uso multiusuário
-• 📱 Melhorias de responsividade mobile
+• 🔍 Filtro e busca na listagem<br>
+• 📄 Exportação em CSV/JSON<br>
+• 👥 Sistema de login para uso multiusuário<br>
+• 📱 Melhorias de responsividade mobile<br>
 • 🌐 Cache inteligente da API ReceitaWS
 
 💡 Aprenda, explore e contribua!
