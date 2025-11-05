@@ -12,8 +12,6 @@
 
 # 🏢 Integração ERP/CRM com API ReceitaWS e Banco SQLite (CNPJ Automático)
 
-🔗 **Consulta, cadastro e gerenciamento de empresas com PHP + SQLite + Fetch API**
-
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-orange)
 ![JavaScript](https://img.shields.io/badge/Frontend-Fetch_API-yellow)
@@ -24,6 +22,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/receitaws-cnpj-sqlite?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/receitaws-cnpj-sqlite?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/receitaws-cnpj-sqlite)
+
+🔗 **Consulta, cadastro e gerenciamento de empresas com PHP + SQLite + Fetch API**
 
 ---
 
