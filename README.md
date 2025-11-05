@@ -12,6 +12,7 @@
 
 # 🏢 Integração ERP/CRM com API ReceitaWS e Banco SQLite (CNPJ Automático)
 
+![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)
