@@ -12,12 +12,12 @@
 
 # 🏢 Integração ERP/CRM com API ReceitaWS e Banco SQLite (CNPJ Automático)
 
-![PHP](https://img.shields.io/badge/PHP-8.2-blue)
-![SQLite](https://img.shields.io/badge/SQLite-Database-orange)
-![JavaScript](https://img.shields.io/badge/Frontend-Fetch_API-yellow)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Responsive](https://img.shields.io/badge/Design-Responsive-FF6B6B.svg?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-SMTP-6B46C1.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+![Status Stable](https://img.shields.io/badge/Status-Stable-success)
 ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
 ![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/receitaws-cnpj-sqlite?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/receitaws-cnpj-sqlite?style=social)
